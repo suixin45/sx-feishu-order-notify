@@ -1,30 +1,36 @@
 # Feishu Order Notify
 
-Send WooCommerce order status updates to Feishu group via webhook.
+Send WooCommerce order updates to Feishu group chat via webhook 📩
 
-## 📦 Features
+## 🚀 Features
 
-- Notify order status changes to Feishu
-- Custom webhook URL support
-- Supports WooCommerce standard and custom statuses
-- Settings page with test message function
+- Send order status changes to Feishu
+- Customize which statuses to send
+- Manual test message supported
+- Easy configuration under plugin settings
 
-## 📥 Installation
+## 🛠 Installation
 
-1. Download the plugin ZIP
-2. Upload to WordPress via **Plugins > Add New**
-3. Activate and go to **Settings > Feishu Order Notify** to configure
+1. Download or clone this repository
+2. Upload it to your WordPress `/wp-content/plugins/` directory
+3. Activate the plugin in WordPress
+4. Go to `Settings > Feishu Notify` to set your webhook
 
-## 🛠️ Setup
+## 📦 WordPress.org Plugin
 
-- Enter your Feishu webhook URL
-- Enable order status triggers
-- Click "Send Test Message" to verify
+[Submit Page on WordPress.org](https://cn.wordpress.org/plugins/feishu-order-notify/)  
+(*Currently under review*)
 
-## 💬 Support
+## 🧩 Compatibility
 
-For issues, suggestions, or contributions, please open an [Issue](https://github.com/suixin45/Feishu-Order-Notify/issues).
+- Requires WordPress 5.6+
+- Requires PHP 7.4+
+- Tested with WooCommerce 8.x
 
 ## 📄 License
 
-This plugin is licensed under the GPLv2 or later.
+GPL v2 or later — See `LICENSE`
+
+## 🧑‍💻 Author
+
+[suixin45](https://github.com/suixin45)
