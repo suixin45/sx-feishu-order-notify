@@ -1,4 +1,4 @@
-=== Feishu Order Notify ===
+=== Sx - Feishu Order Notify ===
 Contributors: suixin45
 Tags: woocommerce, feishu, notification, order, webhook
 Requires at least: 5.6
